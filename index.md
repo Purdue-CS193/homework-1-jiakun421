@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 **this text will be bold**
 ```markdown
 Syntax highlighted code block
-
+*this text will be italic*
 # Header 1
 # This is an <h1>tag
 ## Header 2
